@@ -2,7 +2,7 @@
 A Learning Project
 
 
-##Goal: A single page todo list application that requires a user to login to add to the list. You will use database migrations, controllers, models, services, dependency injection, VueJS, ES6, PHP7.1, bootstrap-vue, and the like.
+## Goal: A single page todo list application that requires a user to login to add to the list. You will use database migrations, controllers, models, services, dependency injection, VueJS, ES6, PHP7.1, bootstrap-vue, and the like.
 
 Be sure to clone the repo I add to this task and checkout the branch with your name for development. I will include a reasonable gitignore file. These requirements will also be in the readme
 
